@@ -1,16 +1,102 @@
-## Hi there 👋
+# Hi 👋 I'm Enes Çelik
 
-<!--
-**celik-enes/celik-enes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Full Stack Developer based in Istanbul, Turkey.
 
-Here are some ideas to get you started:
+I build modern web applications using React, Node.js and PostgreSQL.
+Recently completed a **960+ hour intensive Full Stack Development Bootcamp at Workintech**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+Frontend
+
+* React
+* JavaScript
+* HTML5
+* CSS3
+* TailwindCSS
+* Redux
+
+Backend
+
+* Node.js
+* Express.js
+* REST API
+
+Database
+
+* PostgreSQL
+
+Tools
+
+* Git
+* GitHub
+* Postman
+* Jest
+* Cypress
+* Figma
+
+---
+
+## 📌 Featured Projects
+
+### Task Manager App
+
+Full Stack task management application.
+
+Tech Stack:
+React, Node.js, Express, PostgreSQL
+
+Features:
+
+* CRUD operations
+* REST API integration
+* PostgreSQL database
+
+---
+
+### User Management App
+
+Authentication system using JWT.
+
+Features:
+
+* User registration
+* Login system
+* Protected routes
+* API integration
+
+---
+
+### Blog API
+
+Backend REST API for blog management.
+
+Features:
+
+* CRUD operations
+* PostgreSQL schema
+* RESTful endpoints
+* Postman testing
+
+---
+
+### Pizza Order App
+
+Dynamic pizza ordering interface.
+
+Features:
+
+* React state management
+* Responsive design
+* Figma-based UI
+
+---
+
+## 📫 Contact
+
+🔗 [LinkedIn](https://linkedin.com/in/enescelikdev)  
+💻 [GitHub](https://github.com/celik-enes)  
+📧 [Email](mailto:enescelik0075@gmail.com)
+
