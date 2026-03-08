@@ -39,64 +39,9 @@ Tools
 
 ---
 
-## 📌 Featured Projects
-
-### Task Manager App
-
-Full Stack task management application.
-
-Tech Stack:
-React, Node.js, Express, PostgreSQL
-
-Features:
-
-* CRUD operations
-* REST API integration
-* PostgreSQL database
-
----
-
-### User Management App
-
-Authentication system using JWT.
-
-Features:
-
-* User registration
-* Login system
-* Protected routes
-* API integration
-
----
-
-### Blog API
-
-Backend REST API for blog management.
-
-Features:
-
-* CRUD operations
-* PostgreSQL schema
-* RESTful endpoints
-* Postman testing
-
----
-
-### Pizza Order App
-
-Dynamic pizza ordering interface.
-
-Features:
-
-* React state management
-* Responsive design
-* Figma-based UI
-
----
-
 ## 📫 Contact
 
 🔗 [LinkedIn](https://linkedin.com/in/enescelikdev)  
 💻 [GitHub](https://github.com/celik-enes)  
-📧 [Email](mailto:enescelik0075@gmail.com)
+📧 [enescelik0075@gmail.com]
 
