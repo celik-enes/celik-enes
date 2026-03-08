@@ -1,6 +1,6 @@
 # Hi 👋 I'm Enes Çelik
 
-💻 Junior Full Stack Developer based in Istanbul, Turkey.
+💻 Full Stack Developer based in Istanbul, Turkey.
 
 I build modern web applications using React, Node.js and PostgreSQL.
 Recently completed a **960+ hour intensive Full Stack Development Bootcamp at Workintech**.
@@ -42,6 +42,5 @@ Tools
 ## 📫 Contact
 
 🔗 [LinkedIn](https://linkedin.com/in/enescelikdev)  
-💻 [GitHub](https://github.com/celik-enes)  
-📧 [enescelik0075@gmail.com]
+💻 [GitHub](https://github.com/celik-enes)
 
